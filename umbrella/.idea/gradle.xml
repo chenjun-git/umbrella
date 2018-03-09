@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Android-Universal-Image-Loader/library" />
+            <option value="$PROJECT_DIR$/BaseRecyclerViewAdapterHelper/library" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

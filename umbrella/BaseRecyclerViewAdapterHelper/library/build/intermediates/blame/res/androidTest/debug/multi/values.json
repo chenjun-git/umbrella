@@ -1,0 +1,311 @@
+[
+    {
+        "outputFile": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 36,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 36,
+                        "endOffset": 129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 34,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 134,
+                        "endColumn": 34,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 36,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 36,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 36,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 36,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 36,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 36,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 36,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 36,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 36,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 36,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endColumn": 65,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 65,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 62,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 62,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 483,
+                    "endColumn": 61,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 61,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 64,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 545,
+                        "endColumn": 64,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 50,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 50,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 49,
+                    "endOffset": 706
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 661,
+                        "endColumn": 49,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 711,
+                    "endColumn": 56,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 56,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 50,
+                    "endOffset": 814
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 50,
+                        "endOffset": 814
+                    }
+                }
+            }
+        ]
+    }
+]

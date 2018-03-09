@@ -1,2 +1,3 @@
-include ':app', ':ImageLoader'
+include ':app', ':ImageLoader' ,":BaseRecyclerViewAdapterHelper"
 project(':ImageLoader').projectDir = new File('Android-Universal-Image-Loader/library')
+project(':BaseRecyclerViewAdapterHelper').projectDir = new File('BaseRecyclerViewAdapterHelper/library')

@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en/values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 62,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 62,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 52,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/BaseRecyclerViewAdapterHelper/library/build/intermediates/bundles/debug/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 52,
+                        "endOffset": 222
+                    }
+                }
+            }
+        ]
+    }
+]
