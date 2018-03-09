@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BaseRecyclerViewAdapterHelper/library/BaseRecyclerViewAdapterHelper.iml" filepath="$PROJECT_DIR$/BaseRecyclerViewAdapterHelper/library/BaseRecyclerViewAdapterHelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/Android-Universal-Image-Loader/library/ImageLoader.iml" filepath="$PROJECT_DIR$/Android-Universal-Image-Loader/library/ImageLoader.iml" />
       <module fileurl="file://$PROJECT_DIR$/JiaoZiVideoPlayer/jiaozivideoplayer/JiaoZiVideoPlayer.iml" filepath="$PROJECT_DIR$/JiaoZiVideoPlayer/jiaozivideoplayer/JiaoZiVideoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultipleTheme/app/MultipleTheme.iml" filepath="$PROJECT_DIR$/MultipleTheme/app/MultipleTheme.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/umbrella.iml" filepath="$PROJECT_DIR$/umbrella.iml" />
     </modules>

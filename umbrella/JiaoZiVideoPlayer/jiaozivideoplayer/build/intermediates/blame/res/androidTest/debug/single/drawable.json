@@ -4,12 +4,12 @@
         "source": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/bundles/debug/res/drawable/jz_click_share_selector.xml"
     },
     {
-        "merged": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/res/merged/androidTest/debug/drawable/jz_seek_thumb_normal.xml",
-        "source": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/bundles/debug/res/drawable/jz_seek_thumb_normal.xml"
-    },
-    {
         "merged": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/res/merged/androidTest/debug/drawable/jz_bottom_bg.9.png",
         "source": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/bundles/debug/res/drawable/jz_bottom_bg.9.png"
+    },
+    {
+        "merged": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/res/merged/androidTest/debug/drawable/jz_seek_thumb_normal.xml",
+        "source": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/bundles/debug/res/drawable/jz_seek_thumb_normal.xml"
     },
     {
         "merged": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/res/merged/androidTest/debug/drawable/jz_title_bg.9.png",

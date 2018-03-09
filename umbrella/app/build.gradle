@@ -41,4 +41,5 @@ dependencies {
     compile project(':ImageLoader')
     compile project(':BaseRecyclerViewAdapterHelper')
     compile project(':JiaoZiVideoPlayer')
+    compile project(':MultipleTheme')
 }

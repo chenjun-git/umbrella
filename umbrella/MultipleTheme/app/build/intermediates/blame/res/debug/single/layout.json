@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/chenjun/ws/src/umbrella/umbrella/MultipleTheme/app/build/intermediates/res/merged/debug/layout/second_activity.xml",
+        "source": "/Users/chenjun/ws/src/umbrella/umbrella/MultipleTheme/app/src/main/res/layout/second_activity.xml"
+    },
+    {
+        "merged": "/Users/chenjun/ws/src/umbrella/umbrella/MultipleTheme/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/chenjun/ws/src/umbrella/umbrella/MultipleTheme/app/src/main/res/layout/activity_main.xml"
+    }
+]
