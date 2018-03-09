@@ -1,3 +1,4 @@
-include ':app', ':ImageLoader' ,":BaseRecyclerViewAdapterHelper"
+include ':app', ':ImageLoader' ,":BaseRecyclerViewAdapterHelper", "JiaoZiVideoPlayer"
 project(':ImageLoader').projectDir = new File('Android-Universal-Image-Loader/library')
 project(':BaseRecyclerViewAdapterHelper').projectDir = new File('BaseRecyclerViewAdapterHelper/library')
+project(':JiaoZiVideoPlayer').projectDir = new File('JiaoZiVideoPlayer/JiaoZiVideoPlayer')

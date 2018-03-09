@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-es/values-es.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 79,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/bundles/debug/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 79,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 47,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/bundles/debug/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 47,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 47,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/bundles/debug/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 47,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 122,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/bundles/debug/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 122,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endColumn": 57,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/bundles/debug/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 57,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endColumn": 60,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/bundles/debug/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 60,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 71,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "/Users/chenjun/ws/src/umbrella/umbrella/JiaoZiVideoPlayer/jiaozivideoplayer/build/intermediates/bundles/debug/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 71,
+                        "endOffset": 540
+                    }
+                }
+            }
+        ]
+    }
+]
