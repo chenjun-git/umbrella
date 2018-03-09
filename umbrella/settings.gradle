@@ -1,1 +1,2 @@
-include ':app'
+include ':app', ':ImageLoader'
+project(':ImageLoader').projectDir = new File('Android-Universal-Image-Loader/library')
