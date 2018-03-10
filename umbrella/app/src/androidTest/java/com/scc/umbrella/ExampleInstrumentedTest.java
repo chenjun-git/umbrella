@@ -1,4 +1,4 @@
-package scc.com.umbrella;
+package com.scc.umbrella;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

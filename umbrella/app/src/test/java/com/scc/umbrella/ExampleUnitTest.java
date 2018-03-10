@@ -1,4 +1,4 @@
-package scc.com.umbrella;
+package com.scc.umbrella;
 
 import org.junit.Test;
 

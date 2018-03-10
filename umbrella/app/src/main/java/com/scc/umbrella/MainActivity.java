@@ -1,4 +1,4 @@
-package scc.com.umbrella;
+package com.scc.umbrella;
 
 import android.os.Bundle;
 import android.widget.TextView;
