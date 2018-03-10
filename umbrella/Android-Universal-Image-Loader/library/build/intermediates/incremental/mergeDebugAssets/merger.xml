@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/chenjun/ws/src/umbrella/umbrella/Android-Universal-Image-Loader/library/src/main/assets"/><source path="/Users/chenjun/ws/src/umbrella/umbrella/Android-Universal-Image-Loader/library/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/chenjun/ws/src/umbrella/umbrella/Android-Universal-Image-Loader/library/src/debug/assets"/></dataSet></merger>
