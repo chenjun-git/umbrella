@@ -7,6 +7,7 @@ import com.scc.umbrella.base.BasePresenter;
 import com.scc.umbrella.view.INewsListView;
 import com.scc.umbrella.model.News;
 import com.scc.umbrella.base.AppClient;
+import com.scc.umbrella.base.SubscriberCallBack;
 /**
  * Created by chenjun on 18/3/17.
  */

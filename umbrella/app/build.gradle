@@ -61,4 +61,5 @@ dependencies {
     implementation 'cn.jzvd:jiaozivideoplayer:6.2.8'
     //implementation'me.imid.swipebacklayout.lib:library:1.0.0'
     compile 'com.orhanobut:logger:2.1.1'
+    implementation 'de.hdodenhof:circleimageview:2.0.0'
 }

@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import com.scc.umbrella.base.BaseFragment;
 import com.scc.umbrella.R;
 import com.scc.umbrella.utils.ConstanceValue;
-
+import cn.jzvd.JZVideoPlayer;
 /**
  * Created by chenjun on 18/3/17.
  */
@@ -61,6 +61,6 @@ public class VideoFragment extends BasePagerFragment {
     @Override
     public void onHiddenChanged(boolean hidden) {
         super.onHiddenChanged(hidden);
-        JCVideoPlayer.releaseAllVideos();
+        JZVideoPlayer.releaseAllVideos();
     }
 }

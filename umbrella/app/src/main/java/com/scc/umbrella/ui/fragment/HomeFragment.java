@@ -31,7 +31,7 @@ import com.scc.umbrella.listener.OnChannelListener;
 import com.scc.umbrella.presenter.HomePresenter;
 import com.scc.umbrella.base.BaseMvpFragment;
 import com.scc.umbrella.utils.ConstanceValue;
-
+import com.scc.umbrella.ui.view.ChannelDialogFragment;
 /**
  * Created by chenjun on 18/3/17.
  */
@@ -101,8 +101,8 @@ public class HomeFragment extends BaseMvpFragment<HomePresenter> implements IHom
      */
     private void getTitleData() {
 
-        String selectTitle = SharedPreferencesMgr.getString(TITLE_SELECTED, "");
-        String unselectTitle = SharedPreferencesMgr.getString(TITLE_UNSELECTED, "");
+        String selectTitle = SharedPreferencesMgr.getString(ConstanceValue.TITLE_SELECTED, "");
+        String unselectTitle = SharedPreferencesMgr.getString(ConstanceValue.TITLE_UNSELECTED, "");
         if (TextUtils.isEmpty(selectTitle) || TextUtils.isEmpty(unselectTitle)) {
             //本地没有title
             String[] titleStr = getResources().getStringArray(R.array.home_title);
@@ -115,7 +115,7 @@ public class HomeFragment extends BaseMvpFragment<HomePresenter> implements IHom
             }
 
             String selectedStr = mGson.toJson(mSelectedDatas);
-            SharedPreferencesMgr.setString(TITLE_SELECTED, selectedStr);
+            SharedPreferencesMgr.setString(ConstanceValue.TITLE_SELECTED, selectedStr);
         } else {
             //之前添加过
             List<Channel> selecteData = mGson.fromJson(selectTitle, new TypeToken<List<Channel>>() {

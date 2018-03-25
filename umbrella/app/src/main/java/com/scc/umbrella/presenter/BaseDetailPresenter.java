@@ -3,6 +3,8 @@ import com.scc.umbrella.base.BasePresenter;
 import com.scc.umbrella.view.IBaseDetailView;
 import com.scc.umbrella.base.AppClient;
 import com.scc.umbrella.base.SubscriberCallBack;
+import com.scc.umbrella.model.CommentList;
+import com.scc.umbrella.model.NewsDetail;
 /**
  * Created by chenjun on 18/3/17.
  */

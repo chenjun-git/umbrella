@@ -16,8 +16,8 @@ import android.widget.LinearLayout;
 import java.lang.ref.WeakReference;
 import java.lang.reflect.Field;
 
-import me.weyye.todaynews.theme.colorUi.ColorUiInterface;
-import me.weyye.todaynews.theme.colorUi.util.ViewAttributeUtil;
+import com.scc.umbrella.theme.colorUi.ColorUiInterface;
+import com.scc.umbrella.theme.colorUi.util.ViewAttributeUtil;
 
 import static android.support.v4.view.ViewPager.SCROLL_STATE_DRAGGING;
 import static android.support.v4.view.ViewPager.SCROLL_STATE_SETTLING;

@@ -28,9 +28,8 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:src="@drawable/shape_stroke_red"
-            app:isColorUi="true"
-            />
+            android:src="@drawable/shape_stroke_red"/>
+            <!--app:isColorUi="true" />-->
 
         <TextView
             android:id="@+id/tvEdit"
@@ -42,8 +41,7 @@
             android:paddingTop="5dp"
             android:text="编辑"
             android:textColor="?attr/font_red"
-            android:textSize="14sp"
-            app:isColorUi="true"
-            />
+            android:textSize="14sp"/>
+            <!--app:isColorUi="true" />-->
     </FrameLayout>
 </LinearLayout>
